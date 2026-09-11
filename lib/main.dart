@@ -60,7 +60,7 @@ class ProfileScreen extends StatelessWidget {
             const Text('Name',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
             const SizedBox(height: 4),
-            const Text('Sandanika', style: TextStyle(fontSize: 16)),
+            const Text('Sandanika Minodi', style: TextStyle(fontSize: 16)),
             const SizedBox(height: 20),
 
             const Text('Email',
